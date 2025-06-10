@@ -265,7 +265,7 @@ pytz==2022.7.1 \
     --hash=sha256:01a0681c4b9684a28304615eba55d1ab31ae00bf68ec157ec3708a8182dbbcd0 \
     --hash=sha256:78f4f37d8198e0627c5f1143240bb0206b8691d8d7ac6d78fee88b78733f8c4a
     # via -r ./tools/lint/rst/requirements.in
-requests==2.27.1 \
+requests==2.32.4 \
     --hash=sha256:68d7c56fd5a8999887728ef304a6d12edc7be74f1cfa47714fc8b414525c9a61 \
     --hash=sha256:f22fa1e554c9ddfd16e6e41ac79759e17be9e492b3587efa038054674760e72d
     # via
