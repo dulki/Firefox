@@ -1,5 +1,5 @@
 # Minimal image with clang-format-13
-FROM debian:bookworm-20240904-slim
+FROM debian:bookworm-20250929-slim
 LABEL maintainer="John Schanck <jschanck@mozilla.com>"
 
 RUN apt-get update \
